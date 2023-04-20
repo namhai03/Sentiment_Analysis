@@ -35,9 +35,9 @@ Các bước thực hiện:
 
 3. Thông tin và kiểu dữ liệu
 
-4. Trực quan hóa 
+4. Tiền xử lí dữ liệu
 
-5. Tiền xử lí dữ liệu
+5. Trực quan hóa 
 
 6. Tách dữ liệu thành tập train, test
 
