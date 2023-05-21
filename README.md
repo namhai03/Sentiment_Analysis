@@ -5,7 +5,7 @@ Phân tích tình cảm đề cập đến việc xác định cũng như phân 
 
 Do đó, chúng tôi cần phát triển Mô hình phân tích tình cảm học máy tự động để tính toán nhận thức của khách hàng. Do sự hiện diện của các ký tự không hữu ích (collectively termed as the noise) cùng với dữ liệu hữu ích.
 
-Mục đích của tôi là phân tích cảm xúc của các tweet được cung cấp từ bộ dữ liệu bằng cách phát triển một quy trình học máy liên quan đến việc sử dụng ba bộ phân loại (Hồi quy logistic, Bernoulli Naive Bayes và RandomForest) cùng với việc sử dụng Term Frequency- Inverse Document Frequency (TF-IDF ). 
+Mục đích của tôi là phân tích cảm xúc của các tweet được cung cấp từ bộ dữ liệu bằng cách phát triển một quy trình học máy liên quan đến việc sử dụng ba bộ phân loại (	Linear Support Vector Classifier, Bernoulli Naive Bayes và RandomForest) cùng với việc sử dụng Term Frequency- Inverse Document Frequency (TF-IDF ). 
 
 ## Problem Statement
 
